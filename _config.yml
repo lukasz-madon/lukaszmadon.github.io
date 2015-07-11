@@ -21,13 +21,13 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/lukasz-madon
+  github: lukasz-madon
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
-  stackoverflow: http://stackoverflow.com/users/336186/lukas
+  stackoverflow: users/336186/lukas
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
