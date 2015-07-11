@@ -21,18 +21,9 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '17981463'
-author:
-  login: soonstudios
-  email: lukasz.madon@gmail.com
-  display_name: Soon Studios
-  first_name: ''
-  last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
-<p>I would like to share a quick tutorial how to get ITIN number for tax purposes. I is a bit of PITA (pain in the ass), especially for those who do not have access to a proper tax advisor, that is why I share this.</p>
+I would like to share a quick tutorial how to get ITIN number for tax purposes. I is a bit of PITA (pain in the ass), especially for those who do not have access to a proper tax advisor, that is why I share this.
+
 <p>I am <strong>Non U.S.-based Developer</strong> developer that makes app for WP7 and I will focus on Zune marketplace, but this tutorial is also helpful for any person that would like to get ITIN.</p>
 <p><strong>What is ITIN?</strong></p>
 <p>According to wikipedia:</p>

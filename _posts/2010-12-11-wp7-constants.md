@@ -19,23 +19,10 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '17981463'
-  tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"17981463";s:7:"blog_id";s:8:"17351252";s:9:"mod_stamp";s:19:"2010-12-20
-    18:10:30";}
-  _oembed_2d98fc0fe4b60a6de917b46dbe34f345: '{{unknown}}'
-  _oembed_9da8fa5b91c8d624548d36101775c276: '{{unknown}}'
-  _oembed_e66c66b21229d7900d0ec13eb8869851: '{{unknown}}'
-author:
-  login: soonstudios
-  email: lukasz.madon@gmail.com
-  display_name: Soon Studios
-  first_name: ''
-  last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
-<p>I have tried to gather some important ones. I will update this post when I spot something new :)</p>
+I have tried to gather some important ones. I will update this post when I spot something new :)
+
+
 <p><strong>Developing</strong></p>
 <ol>
 <li>3 - devices can be unlocked by one developer(one <a class="zem_slink" title="Windows Live ID" rel="homepage" href="http://login.live.com">live ID</a>)</li>

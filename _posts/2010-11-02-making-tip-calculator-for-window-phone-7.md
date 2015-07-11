@@ -113,11 +113,10 @@ private void PhoneApplicationPage_OrientationChanged(object sender, OrientationC
 }
 ```
 
-To keep UI concise I have divided main Grid into 2 columns and 2 rows. After `OrientationChanged` event occurs bottom grid is set to next column. For the orientation changes the <a href="http://blogs.msdn.com/b/delay/archive/2010/09/28/this-one-s-for-you-gregor-mendel-code-to-animate-and-fade-windows-phone-orientation-changes-now-supports-a-new-mode-hybrid.aspx">Hybrid</a> animation do a nice job.
-
-That is all interesting things about code.<strong> Here you can download the solution</strong> <a href="http://hotfile.com/dl/83013028/ca2e326/TipCalc.zip.html">link</a> OR 
+To keep UI concise I have divided main Grid into 2 columns and 2 rows. After `OrientationChanged` event occurs bottom grid is set to next column. For the orientation changes the [Hybrid](ttp://blogs.msdn.com/b/delay/archive/2010/09/28/this-one-s-for-you-gregor-mendel-code-to-animate-and-fade-windows-phone-orientation-changes-now-supports-a-new-mode-hybrid.aspx) animation do a nice job.
 
 And here is a demo. (animations are a bit choppy because of emulator + recording software) ;)
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/3MNSn15ZefE" frameborder="0" allowfullscreen></iframe>
 
 Feedback and comments are welcome.

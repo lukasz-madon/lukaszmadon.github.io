@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FELIX THE FLYING FROG
+title: Felix the flying frog
 date: 2010-11-14 20:36:18.000000000 +00:00
 categories:
 - project management
@@ -14,19 +14,9 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '17981463'
-  _wp_old_slug: ''
-author:
-  login: soonstudios
-  email: lukasz.madon@gmail.com
-  display_name: Soon Studios
-  first_name: ''
-  last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
-<p><strong><span style="font-family:COMIC SANS MS;">A PARABLE ABOUT SCHEDULES, CYCLE TIMES, AND       SHAPING NEW BEHAVIORS.</span></strong></p>
+A parable about schedules, cycle times, and shaping new behaviour.
+
 <p><span style="font-family:COMIC SANS MS;">(this i</span><span style="font-family:COMIC SANS MS;">s a bit old but I like it so much)</span></p>
 <p><span style="font-family:COMIC SANS MS;"> "Felix!" he exclaimed one day, "We're going to be rich!  I'm going to       teach you how to fly!"</span></p>
 <p><span style="font-family:COMIC SANS MS;"> Felix, of course, was terrified at the prospect: "I can't fly, you       idiot......<br />

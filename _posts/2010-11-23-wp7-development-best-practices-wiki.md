@@ -13,17 +13,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '17981463'
-  _wp_old_slug: ''
-author:
-  login: soonstudios
-  email: lukasz.madon@gmail.com
-  display_name: Soon Studios
-  first_name: ''
-  last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://wp7dev.wikispaces.com/"></a></p>
 <p>The best practices about Silverlight and Silverlight for Windows Phone 7.</p>

@@ -24,18 +24,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '17981463'
-  tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:8:"17981463";s:7:"blog_id";s:8:"17351252";s:9:"mod_stamp";s:19:"2010-12-26
-    23:30:58";}
-author:
-  login: soonstudios
-  email: lukasz.madon@gmail.com
-  display_name: Soon Studios
-  first_name: ''
-  last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>To add simple pinch zoom (that I used in my Spirit Level) use <a href="http://silverlight.codeplex.com/releases/view/52297">the Silverlight Toolkit for WP7</a> and add the pinch GetureListener to a grid</p>
 <p>[sourcecode language="xml"]<br />
