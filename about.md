@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm London-based hacker.
+I'm a London-based hacker.
 
 ### Contact me
 
