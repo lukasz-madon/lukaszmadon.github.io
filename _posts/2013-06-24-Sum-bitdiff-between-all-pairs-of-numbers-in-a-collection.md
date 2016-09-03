@@ -37,19 +37,19 @@ Now let's have a look at more complex problem. From a collection of integers cal
 
     input: {1,2,3} -> pairs {(1,2),(1,3),(2,1),(2,3),(3,1),(3,2)} -> output: 8
 
-This can be optimize by generating just half of the pairs (bitDiff operation is transitive), but it's still O(n^2). Can we do O(n)? Scroll for a hint!
+This can be optimized by generating just half of the pairs (bitDiff operation is transitive), but it's still O(n^2). Can we do O(n)? Scroll for a hint!
 
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 
-What if we just have 0 and 1 in the array?
+What if we just have 0's and 1's in the array?
 
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 
-Let's consider simple case
+Let's consider a simple case:
 
     [0,1] ->  1
     [1,1] ->  0
