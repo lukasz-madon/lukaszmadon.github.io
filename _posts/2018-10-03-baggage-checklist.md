@@ -18,7 +18,7 @@ Here is a baggage checklist that I've been using for a few years
 1. Samsonite (55-45-20) suitcase
 
 ## Documents
-1.Passport
+1. Passport
 1. Pen and photos for Visas
 1. Cash
 
