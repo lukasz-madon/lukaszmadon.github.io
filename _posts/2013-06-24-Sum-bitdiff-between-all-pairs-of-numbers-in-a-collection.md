@@ -17,20 +17,20 @@ There are many ways to compare two integers. One of them is to compare each bit 
 Two last bits are different, so the result is 2. Here is one of many possible implementations:       
 
 ```java
-        public static int bitDiff(int a, int b)
+public static int bitDiff(int a, int b)
+{
+    int count = 0;
+    for (int i = 0; i < 32; i++)
+    {
+        int aBit = (1 << i) & a;
+        int bBit = (1 << i) & b;
+        if (aBit != bBit)
         {
-            int count = 0;
-            for (int i = 0; i < 32; i++)
-            {
-                int aBit = (1 << i) & a;
-                int bBit = (1 << i) & b;
-                if (aBit != bBit)
-                {
-                    count++;
-                }
-            }
-            return count;
+            count++;
         }
+    }
+    return count;
+}
 ```
 
 Now let's have a look at more complex problem. From a collection of integers calculate bitDiff of all pairs and then sum the results.
