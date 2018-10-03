@@ -15,7 +15,8 @@ There are many ways to compare two integers. One of them is to compare each bit 
     1 -> ...0001
  
 Two last bits are different, so the result is 2. Here is one of many possible implementations:       
-           
+
+```java
         public static int bitDiff(int a, int b)
         {
             int count = 0;
@@ -30,12 +31,15 @@ Two last bits are different, so the result is 2. Here is one of many possible im
             }
             return count;
         }
+```
 
 Now let's have a look at more complex problem. From a collection of integers calculate bitDiff of all pairs and then sum the results.
 
  &#8721; bitDiff(array[i], array[j])
 
+```
     input: {1,2,3} -> pairs {(1,2),(1,3),(2,1),(2,3),(3,1),(3,2)} -> output: 8
+```
 
 This can be optimized by generating just half of the pairs (bitDiff operation is transitive), but it's still O(n^2). Can we do O(n)? Scroll for a hint!
 
@@ -66,6 +70,7 @@ How to get the generalization for ints?
 
 We can threat numbers as 32 arrays of 1's and 0's
 
+```java
         public static bool isBitSet(int number, int index)
         {
             int bit = (1 << index) & number;
@@ -88,6 +93,8 @@ We can threat numbers as 32 arrays of 1's and 0's
             }
             return sum;
         }
+```
+
 Awesome!
 
 
