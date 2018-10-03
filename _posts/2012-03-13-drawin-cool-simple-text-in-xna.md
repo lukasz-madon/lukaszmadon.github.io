@@ -21,7 +21,7 @@ Here is the result:
 
 I made extension methods for SpriteBatch  that write this kind of text
 
-```c#
+```csharp
 public static class ExtensionMethods   
 {      
   /// <summary>
