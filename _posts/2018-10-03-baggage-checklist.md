@@ -45,6 +45,7 @@ Here is a baggage checklist that I've been using for a few years
 1. Spare phone with for regional sim
 1. Sunglasses
 1. Buff
+1. Knife or scissors 
 1. Snacks and Tea ;)
 
 ## Medicine and Toiletries
