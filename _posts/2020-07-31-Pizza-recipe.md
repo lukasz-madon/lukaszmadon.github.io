@@ -34,14 +34,14 @@ some parmesan
 salami, basil, sausage - whatever you like to put on pizza
 
 
-Combine water, sugar and yeast (with sourdough starter) in a large bowl. If you see bubbles, it means the yeast is alive. Add 600g of bread flour, salt and olive oil. Mix to get everything hydrated and start kneading. Add flour if dough is sticky, but as little as possible. Kneed until you can form a thin layer without tearing it.
+Combine water, sugar and yeast (with sourdough starter) in a large bowl. If you see bubbles, it means the yeast is alive. Add 600g of bread flour, salt and olive oil. Mix to get everything hydrated and start kneading. Add flour if dough is sticky, but as little as possible. knead until you can form a thin layer without tearing it.
 
 Divide dough into 4 equal balls and put them in four plastic or glass containers. Add a tiny bit of olive oil to stop dough sticking to containers.
 Put them in the fridge at least overnight - it can stay in the fridge for up to 10 days.
 
 Put the pizza stone on the high rack position and preheat for 40 minutes.
 
-Dust the pizza peel with whole wheat flour (other flour works as well). Take the cold dough out of the fridge and kneed for 1 minute. Start poking it with finger to create pizza bubbles. Then streach it to he widest size that will fit the stone.
+Dust the pizza peel with whole wheat flour (other flour works as well). Take the cold dough out of the fridge and knead for 1 minute. Start poking it with fingers to create pizza bubbles. Then stretch it to the widest size that will fit the stone.
 
-There are two options for baking the pizza. If you have a pizza oven that can go over 400oC then simple you put all ingredients and bake the pie.
-If your got a standard oven, that can only go up to 250-270oC you need to bake into two phases. Firstly, put all ingriendiesnt into fridge to create greatest temparature difference. Bake dough with the sauce for 5-10mins. When it's brown, take it out and put cheese and other extras. Bake until cheese melts.
+There are two options for baking the pizza. If you have a pizza oven that can go over 400oC then you simply put all ingredients and bake the pie.
+If you got a standard oven, that can only go up to 250-270oC you need to bake into two phases. Firstly, put all ingredients into the fridge to create the greatest temperature difference. Bake dough with the sauce for 5-10mins. When it's brown, take it out and put cheese and other extras. Bake until the cheese melts.
