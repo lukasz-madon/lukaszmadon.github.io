@@ -16,7 +16,7 @@ Great pizza recipe that can be made at home oven.
 Dough:
 1. 500ml warm water
 1. tbsp of sugar
-1. 2 grams of active dry yeast AND a tbps of sourdough starter
+1. 2 grams of active dry yeast AND a tbsp of sourdough starter
 1. 20 ml truffle olive oil (regular is fine as well)
 1. 15g of salt
 1. 600g bread flour, plus more for working the dough
