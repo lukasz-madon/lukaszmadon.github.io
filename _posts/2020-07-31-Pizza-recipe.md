@@ -29,8 +29,7 @@ Sauce - just blend them all in:
 1. tsp (4g) sugar
 1. Oregano 
 
-a block of freshly grated low-moisture mozzarella
-some parmesan
+A block of freshly grated low-moisture mozzarella, some parmesan,
 salami, basil, sausage - whatever you like to put on pizza
 
 
