@@ -27,7 +27,9 @@ Sauce - just blend them all in:
 1. A can of crushed tomatoes
 1. 40ml of olive oil
 1. tsp (4g) sugar
-1. Oregano 
+1. Oregano
+1. Smoked paprika
+1. Garlic (optionally)
 
 A block of freshly grated low-moisture mozzarella, some parmesan,
 salami, basil, sausage - whatever you like to put on pizza
@@ -44,3 +46,9 @@ Dust the pizza peel with whole wheat flour (other flour works as well). Take the
 
 There are two options for baking the pizza. If you have a pizza oven that can go over 400oC then you simply put all ingredients and bake the pie.
 If you got a standard oven, that can only go up to 250-270oC you need to bake into two phases. Firstly, put all ingredients into the fridge to create the greatest temperature difference. Bake dough with the sauce for 5-10mins. When it's brown, take it out and put cheese and other extras. Bake until the cheese melts.
+
+References:
+https://www.youtube.com/watch?v=SDpCzJw2xm4
+http://www.varasanos.com/PizzaRecipe.htm
+http://www.bbc.com/travel/story/20200415-how-to-make-pizza-like-a-neapolitan-master
+https://arxiv.org/abs/1806.08790
