@@ -35,7 +35,7 @@ A block of freshly grated low-moisture mozzarella, some parmesan,
 salami, basil, sausage - whatever you like to put on pizza
 
 
-Combine water, sugar and yeast (with sourdough starter) in a large bowl. If you see bubbles, it means the yeast is alive. Add 600g of bread flour, salt and olive oil. Mix to get everything hydrated and start kneading. Add flour if dough is sticky, but as little as possible. knead until you can form a thin layer without tearing it.
+Combine water, sugar and yeast (with sourdough starter) in a large bowl. If you see bubbles, it means the yeast is alive. Add 600g of bread flour, salt and olive oil. Mix to get everything hydrated and start kneading. Add flour if dough is sticky, but as little as possible. Knead until you can form a thin layer without tearing it.
 
 Divide dough into 4 equal balls and put them in four plastic or glass containers. Add a tiny bit of olive oil to stop dough sticking to containers.
 Put them in the fridge at least overnight - it can stay in the fridge for up to 10 days.
@@ -49,6 +49,9 @@ If you got a standard oven, that can only go up to 250-270oC you need to bake in
 
 References:
 https://www.youtube.com/watch?v=SDpCzJw2xm4
+
 http://www.varasanos.com/PizzaRecipe.htm
+
 http://www.bbc.com/travel/story/20200415-how-to-make-pizza-like-a-neapolitan-master
+
 https://arxiv.org/abs/1806.08790
