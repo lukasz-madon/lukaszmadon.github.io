@@ -19,7 +19,7 @@ Dough:
 1. 2 grams of active dry yeast AND a tbsp of sourdough starter
 1. 20 ml truffle olive oil (regular is fine as well)
 1. 15g of salt
-1. 600g bread flour, plus more for working the dough
+1. 600g bread flour, plus more for working the dough (about 700g total for type 650, 750g for type 00) 
 1. additional oil for greasing the dough
 1. whole wheat flour for dusting the pizza peel
 
