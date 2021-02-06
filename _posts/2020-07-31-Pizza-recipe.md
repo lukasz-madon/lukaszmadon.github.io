@@ -40,7 +40,7 @@ Combine water, sugar and yeast (with sourdough starter) in a large bowl. If you 
 Divide dough into 4 equal balls and put them in four plastic or glass containers. Add a tiny bit of olive oil to stop dough sticking to containers.
 Put them in the fridge at least overnight - it can stay in the fridge for up to 10 days.
 
-Put the pizza stone on the high rack position and preheat for 40 minutes.
+Put the pizza stone (or steel for low temperatures) on the high rack position and preheat for 40 minutes.
 
 Dust the pizza peel with whole wheat flour (other flour works as well). Take the cold dough out of the fridge and knead for 1 minute. Start poking it with fingers to create pizza bubbles. Then stretch it to the widest size that will fit the stone.
 
