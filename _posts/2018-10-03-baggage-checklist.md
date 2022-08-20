@@ -35,6 +35,7 @@ Here is a baggage checklist that I've been using for a few years
 1. Rain jacket/Umbrella
 1. Swimming shorts
 1. Pijamas
+1. Towel
 
 ## Accessories and Electronics 
 1. Power adapter
